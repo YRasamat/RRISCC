@@ -1,5 +1,5 @@
 # RRISCC
-**RISC-V Single Cycle Assembler**
+**Rudimentary RISC-V Compiler**
 
 A lightweight assembler for RV32I assembly, designed to integrate with Vivado for FPGA simulation on the Basys3. Includes a TCL script to automate assembly and copy the output `.mem` file directly into your Vivado simulation directory.
 
