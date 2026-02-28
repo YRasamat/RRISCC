@@ -1,0 +1,13 @@
+# Generated files
+RRISCC/assembler.exe
+RRISCC/riscvtest.mem
+RRISCC/riscvtest.txt
+
+# Vivado generated directories
+rv_core.cache/
+rv_core.hw/
+rv_core.ip_user_files/
+rv_core.runs/
+rv_core.sim/
+rv_core.srcs/
+rv_core.xpr
