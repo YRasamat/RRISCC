@@ -18,8 +18,6 @@ A lightweight assembler for RV32I assembly, designed to integrate with Vivado fo
 
 ## Compiling the Assembler
 
-You will need `gcc` installed (e.g. via [MinGW](https://www.mingw-w64.org/)).
-
 ```bash
 gcc riscvsingleassembler.c -o assembler.exe
 ```
